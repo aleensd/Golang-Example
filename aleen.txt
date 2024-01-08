@@ -1,0 +1,4 @@
+Bill breakdown: 
+pie:                     ..... $4.5 
+tip:                     ..... $4.57 
+total:                   ..... $4.50
